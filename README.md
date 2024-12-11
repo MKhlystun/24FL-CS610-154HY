@@ -8,3 +8,8 @@ There are four system configurations:
 The **three_level.py** file contains the cache configuration, size, and policy.
 
 The **stats.sh** and **st.sh** files are used to filter metrics from the statistics generated after simulations.
+
+**arr_sort_random.cpp**: The code of a low locality workload.
+
+**arr_sort_sort.cpp**: The code of a high locality workload.
+
